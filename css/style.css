@@ -54,8 +54,8 @@ body{
     background-color: cornflowerblue;
 }
 .circle{
-    width: 45px;
-    height: 45px;
+    width: 80px;
+    height: 80px;
     border-radius: 60%;
     display:inline-block;
     background-color: white;
