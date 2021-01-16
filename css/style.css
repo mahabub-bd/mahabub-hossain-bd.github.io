@@ -54,9 +54,9 @@ body{
     background-color: cornflowerblue;
 }
 .circle{
-    width: 80px;
-    height: 80px;
-    border-radius: 60%;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
     display:inline-block;
     background-color: white;
     font-size: 30px;
