@@ -54,12 +54,12 @@ body{
     background-color: cornflowerblue;
 }
 .circle{
-    width: 60px;
-    height: 60px;
+    width: 45px;
+    height: 45px;
     border-radius: 60%;
     display:inline-block;
     background-color: white;
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
     color:cornflowerblue ;
 }
