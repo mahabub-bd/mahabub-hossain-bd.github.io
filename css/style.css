@@ -51,7 +51,7 @@ body{
    
 }
 .footer{
-    background-color: cornflowerblue;
+    background-color:#6495ED;
 }
 .circle{
     
@@ -59,11 +59,11 @@ body{
     height: 45px;
     border-radius: 50%;
     display:inline-block;
-    background-color: white;
+    background-color:white;
     font-size: 30px;
     text-align: center;
-    color:cornflowerblue;
+    color:lightseagreen;
 }
 .circle:hover{
-   background-color: #474d5d; 
+   background-color:#474D5D; 
 }
