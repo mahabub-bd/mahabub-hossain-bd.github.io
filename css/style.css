@@ -54,6 +54,7 @@ body{
     background-color: cornflowerblue;
 }
 .circle{
+    
     width: 45px;
     height: 45px;
     border-radius: 50%;
@@ -61,7 +62,7 @@ body{
     background-color: white;
     font-size: 30px;
     text-align: center;
-    color:cornflowerblue ;
+    color:cornflowerblue;
 }
 .circle:hover{
    background-color: #474d5d; 
